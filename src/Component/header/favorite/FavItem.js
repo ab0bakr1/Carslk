@@ -4,7 +4,7 @@ import StoreItems from "../../../Data/AllCars.json"
 import { useShoppingFav } from '../../../context/ShoppingFavContext';
 
 const FavItem = ({id}) =>{
-    const {removeItemFromFav} = useShoppingFav();
+    const {decreaseFavQuantity} = useShoppingFav();
     const item = StoreItems.find((i)=> i.id === id);
     if (item == null) return null;
   return (
@@ -15,7 +15,7 @@ const FavItem = ({id}) =>{
             <div className='fw-bold'>{item.year}</div>
             <div className='fav-price'>{(item.price)}</div>
         </div>
-        <Button onClick={() => removeItemFromFav(id)}>X</Button>
+        <Button onClick={() => decreaseFavQuantity(id)}>X</Button>
     </Stack>
   )
 }

@@ -13,7 +13,11 @@ const Year = ({ handleFiltersChange }) => {
             <button onClick={handleFiltersChange} name='year' value="2018" className='d-flex align-items-center gap-1 border-0 bg-transparent fs-5'>2018</button>
             <button onClick={handleFiltersChange} name='year' value="2017" className='d-flex align-items-center gap-1 border-0 bg-transparent fs-5'>2017</button>
             <button onClick={handleFiltersChange} name='year' value="2016" className='d-flex align-items-center gap-1 border-0 bg-transparent fs-5'>2016</button>
+            <button onClick={handleFiltersChange} name='year' value="2015" className='d-flex align-items-center gap-1 border-0 bg-transparent fs-5'>2015</button>
             <button onClick={handleFiltersChange} name='year' value="2014" className='d-flex align-items-center gap-1 border-0 bg-transparent fs-5'>2014</button>
+            <button onClick={handleFiltersChange} name='year' value="2012" className='d-flex align-items-center gap-1 border-0 bg-transparent fs-5'>2012</button>
+            <button onClick={handleFiltersChange} name='year' value="2010" className='d-flex align-items-center gap-1 border-0 bg-transparent fs-5'>2010</button>
+            <button onClick={handleFiltersChange} name='year' value="2009" className='d-flex align-items-center gap-1 border-0 bg-transparent fs-5'>2009</button>
         </div>
     </>
   )

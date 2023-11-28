@@ -1,11 +1,18 @@
 import React from 'react'
 import Store from "./store/Store"
+import Header from './header/Header'
+import Footer from './footer/Footer'
 
 const Cars = () => {
   return (
-    <div style={{paddingTop:"10vh"}}>
-      <Store />
-    </div>
+    <>
+      <Header />
+      <div style={{paddingTop:"10vh"}}>
+        <Store />
+      </div>
+      <Footer />
+    </>
+    
   )
 }
 

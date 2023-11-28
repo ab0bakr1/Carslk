@@ -1,11 +1,18 @@
 import React from 'react'
 import Contact from "./footer/contact/Contact"
+import Footer from './footer/Footer'
+import Header from './header/Header'
 
 const contact = () => {
   return (
-    <div style={{paddingTop:"20vh"}}>
-      <Contact />
-    </div>
+    <>
+      <Header />
+      <div style={{paddingTop:"20vh"}}>
+        <Contact />
+      </div>
+      <Footer />
+    </>
+    
   )
 }
 
