@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/Carslk/static/css/main.65e865a0.css",
-    "main.js": "/Carslk/static/js/main.56f82abc.js",
+    "main.css": "/Carslk/static/css/main.5565ee6d.css",
+    "main.js": "/Carslk/static/js/main.3382d91a.js",
     "static/media/hero2.png": "/Carslk/static/media/hero2.60baaa25a6a2c826f2aa.png",
     "static/media/Chevrolet.png": "/Carslk/static/media/Chevrolet.025383ac934034fe5e49.png",
     "static/media/hero3.png": "/Carslk/static/media/hero3.450240eb25bc18e516de.png",
     "static/media/Mercedes.png": "/Carslk/static/media/Mercedes.b155eb65aea67d2e6180.png",
     "static/media/hero1.png": "/Carslk/static/media/hero1.66ba77dd0bc0e0f5da71.png",
+    "static/media/Ford.png": "/Carslk/static/media/Ford.3f5a187ae92b03bfdaa7.png",
+    "static/media/Lexus.png": "/Carslk/static/media/Lexus.cee149df7153d2f33e56.png",
     "static/media/Hyundai.png": "/Carslk/static/media/Hyundai.dae2bdb1ccec43bfece4.png",
     "static/media/Toyota.png": "/Carslk/static/media/Toyota.e28290c9607d02070155.png",
+    "static/media/Honda.png": "/Carslk/static/media/Honda.02c6d9239ed0f48d70de.png",
+    "static/media/Rolls-Royce.png": "/Carslk/static/media/Rolls-Royce.cf0e779c4bee658c0cc7.png",
     "static/media/Audi.png": "/Carslk/static/media/Audi.5d860cc7f9044180ef22.png",
     "static/media/client.png": "/Carslk/static/media/client.9f56a30ae19daf7bc5b1.png",
     "static/media/BMW.png": "/Carslk/static/media/BMW.eab149d25c71c6642bad.png",
     "static/media/client5.png": "/Carslk/static/media/client5.519d45015314f638f130.png",
     "static/media/logo.png": "/Carslk/static/media/logo.adc0c4762c57265d5380.png",
+    "static/media/Cadillac.png": "/Carslk/static/media/Cadillac.ce165bd8a440a5c89f63.png",
     "static/media/cliemt4.png": "/Carslk/static/media/cliemt4.fa1f132849eea56fe5ab.png",
     "static/media/user-in.png": "/Carslk/static/media/user-in.88979206ac7ed0cebbcc.png",
     "static/media/مخلخ.png": "/Carslk/static/media/مخلخ.f9cf0eb5b6007d0e3303.png",
@@ -22,11 +27,11 @@
     "static/media/JEEP.png": "/Carslk/static/media/JEEP.f2ffab9ed14cfbf41977.png",
     "static/media/client3.png": "/Carslk/static/media/client3.c737b73314b1fb248095.png",
     "index.html": "/Carslk/index.html",
-    "main.65e865a0.css.map": "/Carslk/static/css/main.65e865a0.css.map",
-    "main.56f82abc.js.map": "/Carslk/static/js/main.56f82abc.js.map"
+    "main.5565ee6d.css.map": "/Carslk/static/css/main.5565ee6d.css.map",
+    "main.3382d91a.js.map": "/Carslk/static/js/main.3382d91a.js.map"
   },
   "entrypoints": [
-    "static/css/main.65e865a0.css",
-    "static/js/main.56f82abc.js"
+    "static/css/main.5565ee6d.css",
+    "static/js/main.3382d91a.js"
   ]
 }
