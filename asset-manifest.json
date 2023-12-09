@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Carslk/static/css/main.5565ee6d.css",
-    "main.js": "/Carslk/static/js/main.3382d91a.js",
+    "main.js": "/Carslk/static/js/main.eeed70de.js",
     "static/media/hero2.png": "/Carslk/static/media/hero2.60baaa25a6a2c826f2aa.png",
     "static/media/Chevrolet.png": "/Carslk/static/media/Chevrolet.025383ac934034fe5e49.png",
     "static/media/hero3.png": "/Carslk/static/media/hero3.450240eb25bc18e516de.png",
@@ -28,10 +28,10 @@
     "static/media/client3.png": "/Carslk/static/media/client3.c737b73314b1fb248095.png",
     "index.html": "/Carslk/index.html",
     "main.5565ee6d.css.map": "/Carslk/static/css/main.5565ee6d.css.map",
-    "main.3382d91a.js.map": "/Carslk/static/js/main.3382d91a.js.map"
+    "main.eeed70de.js.map": "/Carslk/static/js/main.eeed70de.js.map"
   },
   "entrypoints": [
     "static/css/main.5565ee6d.css",
-    "static/js/main.3382d91a.js"
+    "static/js/main.eeed70de.js"
   ]
 }
